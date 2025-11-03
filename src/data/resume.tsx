@@ -12,7 +12,7 @@ export const DATA = {
   summary:
     'Meet **Ali Hassan Rajput**, a Software Engineer and AI Product Developer with over 4 years of experience in web and app development. I also run [**Xaibridge**](https://xaibridge.com/), my own software house, where I lead a team in delivering cutting-edge solutions tailored to client needs. I thrive on transforming complex challenges into elegant, intuitive, and user-friendly designs. If you need someone who excels in building AI applications and websites, look no further. My expertise lies in creating websites and applications that are not only functional and user-friendly but also visually compelling. By infusing a personal touch, I ensure your product stands out and offers a seamless user experience. My aim is to effectively communicate your message and identity in the most creative and impactful way possible. Within just 30 days, I can assist you in launching your Minimum Viable Product (MVP) into the market. Explore my current projects to see the innovative work I’ve been doing. Visit [xaibridge](https://xaibridge.com) to learn more.',
     
-  avatarUrl: "/Ali Hassan CEO dp.png", 
+  avatarUrl: "/ali324.png", 
   skills: [
     "React",
     "Next.js",
@@ -39,11 +39,11 @@ export const DATA = {
         url: "https://github.com/AHtech100",
         icon: Icons.github,
 
-        navbar: true,
+        navbar: false,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/ali-hassan-2661a4201/",
+        url: "https://www.linkedin.com/in/ali-hassan-xaibridge/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -197,6 +197,15 @@ education: [
   },
   
 ],
+  certifications: [
+    {
+      title: "Entrepreneurship Course",
+      issuer: "Lahore University of Management Sciences (LUMS)",
+      date: "October 11-19, 2025",
+      description: "Completed an entrepreneurship course focused on business development, startup strategies, and innovative thinking",
+      image: "/lumscerificate.JPG",
+    },
+  ],
   projects: [
     {
       title: "Chat Collect",
